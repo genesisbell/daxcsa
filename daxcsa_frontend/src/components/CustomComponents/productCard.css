@@ -1,0 +1,26 @@
+.product-card{
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 16px;
+    padding: 15px;
+    box-shadow: 5px 5px 15px 5px rgba(111,111,111,0.04);
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(111,111,111,0.04); 
+}
+
+.product-details{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 15px;
+    width: 100%;
+}
+
+.product-price{
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+}
