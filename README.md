@@ -30,7 +30,7 @@ Clone repository
  
  or run command if you are in Mac
  
-    source djangoenv/bin/activate
+    source venvdaxcsa/bin/activate
  
  3. Install requirements.txt. Go to the daxcsa_backend folder and run command 
  
